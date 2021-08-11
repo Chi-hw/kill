@@ -8,7 +8,7 @@
 
 商品界面
 
-![image-20210811175227630](https://github.com/Chi-hw/kill/blob/main/README-Pictureimage-20210811175227630.png)
+![image-20210811175227630](https://github.com/Chi-hw/kill/blob/main/README-Picture/image-20210811175227630.png)
 
 商品详情界面
 
